@@ -1,1 +1,1 @@
-# hexsnow.io
+# hexsnow
